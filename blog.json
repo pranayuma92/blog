@@ -3,6 +3,10 @@
     {
       "label": "Test",
       "id": "test"
+    },
+    {
+      "label": "React js tutorial",
+      "id": "react-js-tutorial"
     }
   ]
 }
