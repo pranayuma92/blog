@@ -1,3 +1,3 @@
 # This is test file
 
-Hi! thisi test file
+Hi! this is test file
